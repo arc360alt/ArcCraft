@@ -4,7 +4,7 @@ Version of minutest edited to replicate Minecraft
 # To add
 
 * Better textures
-* Fix branding issues of the ArcCraft name not being evrywhere
+* ~~Add Arccraft to the window title~~ (im pretty shure this is impossible)
 * Fix some common bugs found
 * Please give me more ideas lol
 
