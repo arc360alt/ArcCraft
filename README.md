@@ -3,7 +3,7 @@ Version of minutest edited to replicate Minecraft
 
 # To add
 
-* Better textures
+* ~~Better textures~~ (added)
 * ~~Add Arccraft to the window title~~ (im pretty shure this is impossible)
 * Fix some common bugs found
 * Please give me more ideas lol
