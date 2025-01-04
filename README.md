@@ -1,3 +1,4 @@
+# This project has been abandoned, please just download Luanti (formerly Minetest) And install the mod "VoxelLibre" Onto it to replicate what this was.
 # ArcCraft
 Version of minutest edited to replicate Minecraft
 
